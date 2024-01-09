@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Ryan Sieber, and I'm a third year computer engineering student at the University of Cincinnati. In addition to this, I am heavily involved on campus in Army ROTC, the National Society of Pershing Rifles, Theta Tau, CEAS Ambassadors, among a myriad of other groups! Currently, I am enrolled in a variety of courses ranging from American Military History to Computer Architecture. 
+
