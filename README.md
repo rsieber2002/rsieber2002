@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 Hi! My name is Ryan Sieber, and I'm a third year computer engineering student at the University of Cincinnati. In addition to this, I am heavily involved on campus in Army ROTC, the National Society of Pershing Rifles, Theta Tau, CEAS Ambassadors, among a myriad of other groups! Currently, I am enrolled in a variety of courses ranging from American Military History to Computer Architecture. 
 
+I have been exceptionally fortunate to spend two semesters co-oping at the Idaho National Laboratory where I gained a plethora of experience in automation, PLCs, controls, networking, and a myriad of other topics that fall within electrical engineering and computer engineering. During this period, I took the time to explore much of the western United States, skiing down the Teton Mountain Range and backpacking throughout Zion, Grand Teton, and Yellowstone National Parks. 
+
+I am exceptionally exctied to keep growing and learning this semester! Please reach out to me if you have any advice, project ideas, or other fun facts about coding, computers, and other computer engineering topics!
+
